@@ -1,0 +1,18 @@
+Error on 8/9/2021
+
+DBM Error:
+Error with the command "Add Member Role", Action #8
+
+JavaScript Error -
+
+TypeError [INVALID_TYPE]: Supplied roles is not an Role, Snowflake or Array or Collection of Roles or Snowflakes.
+    at GuildMemberRoleManager.add (C:\Users\Dell\Documents\cool\node_modules\discord.js\src\managers\GuildMemberRoleManager.js:93:15)
+    at Object.action [as Add Member Role] (C:\Users\Dell\Documents\cool\actions\add_member_role.js:123:17)
+    at Object.Actions.callNextAction (C:\Users\Dell\Documents\cool\bot.js:547:18)
+    at Object.action [as Control Member Data] (C:\Users\Dell\Documents\cool\actions\control_member_data.js:144:8)
+    at Object.Actions.callNextAction (C:\Users\Dell\Documents\cool\bot.js:547:18)
+    at Object.Actions.executeResults (C:\Users\Dell\Documents\cool\bot.js:928:11)
+    at Object.action [as Check Member Data] (C:\Users\Dell\Documents\cool\actions\check_member_data.js:159:8)
+    at Object.Actions.callNextAction (C:\Users\Dell\Documents\cool\bot.js:547:18)
+    at Object.action [as Store Message Info] (C:\Users\Dell\Documents\cool\actions\store_message_info.js:282:8)
+    at Object.Actions.invokeActions (C:\Users\Dell\Documents\cool\bot.js:502:18)

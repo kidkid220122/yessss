@@ -1,0 +1,80 @@
+^1  = RED
+^2  = GREEN
+^3  = YELLOW
+^4  = BLUE
+^5  = CYAN
+^6  = PINK
+^7  = WHITE
+^8  = DEFAULT MAP COLOR
+^9  = GREY OR DEFAULT MAP COLOR
+^0  = BLACK
+^;  = YALE BLUE
+^:  = LIGHT YELLOW
+^.  = ORANGE
+
+Buttons / symbols can be anywhere in your name or regiment.
+
+BUTTONS - COPY WHAT'S IN THE BRACKETS
+A / X     = []
+B / O     = []
+X / square    = []
+Y / triangle   = []
+LB         = []
+RB         = []
+LT         = []
+RT         = []
+LS         = []
+RS         = []
+Dpad UP    = []
+Dpad Left  = []
+Dpad Right = []
+Dpad Down  = []
+Start      = [] 
+Select      = []
+----
+
+
+
+
+SYMBOLS - COPY WHAT'S IN THE BRACKETS
+----
+Mouse Wheel  = [ߠ]
+Mouse 4      = [ߡ]
+Mouse 3      = [ߢ]
+Mouse Wheel/= [ߣ]
+Mouse Wheel/= [ߤ]
+Mouse          = [ߥ]
+Audio          = [ߦ]
+Ticket       = [ߧ]
+Warning Red  = [ߨ]
+Headshot      = [ߩ]
+Headshot Sign= [ߪ]
+Unlock         = [߫]
+Spinny Boi     = [߮]
+Grenade      = [߯]
+Left Up߇      = [߇]
+Right Up     = [߈]
+Left Stick   = [߉]
+Right Stick  = [ߊ]
+Left Stick   = [ߋ]
+Right Stick  = [ߌ]
+Mantle         = [ߍ]
+DPAD          = [ߎ]
+Pros         = [ߏ]
+Cons         = [ߐ]
+Warning      = [ߑ]
+Double Arrow = [ߒ]
+Lock         = [ߔ]
+Cod Points      = [ߖ] 
+Up Arrow      = [ߚ]
+Down Arrow   = [ߛ]
+Left Arrow   = [ߜ]
+Right Arrow  = [ߝ]
+LMB          = [ߞ]
+RMB          = [ߟ]
+Shotgun      = [߰]
+Scroll Wheel = [߱]
+Mouse +        = [߲]
+Hitmarker      = [ߴ]
+Key          = [߳]
+Party         = [ߵ]
